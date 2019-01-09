@@ -1,4 +1,4 @@
-# Autoregression-Forecast-Model-for-Household-Electricity-Consumption
+# Forecast-Model-Electricity-Consumption
 
 ## Household Power Consumption Dataset
 
